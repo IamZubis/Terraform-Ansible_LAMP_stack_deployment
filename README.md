@@ -1,2 +1,1 @@
-# terraform-ansible-LAMP-deploy
-Using Terraform and Ansible to deploy a LAMP Web Stack.
+This repository contains the Terraform files and Ansible playbooks which I used to deploy a Linux, Apache, MySQL and PHP (LAMP) Web Stack.
